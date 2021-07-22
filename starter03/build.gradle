@@ -1,0 +1,5 @@
+
+dependencies {
+    compile project(':starter02')
+
+}

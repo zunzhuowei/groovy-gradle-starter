@@ -1,0 +1,5 @@
+rootProject.name = 'groovy-gradle-starter'
+include 'starter01'
+include 'starter02'
+include 'starter03'
+
